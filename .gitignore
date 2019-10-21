@@ -6,3 +6,4 @@
 # .tfvars files
 *.tfvars
 .env
+provider.tf
